@@ -1,0 +1,172 @@
+{
+  "brand": {
+    "name": "Quovia",
+    "username": "quovia",
+    "niche": "SaaS restauration québécoise — automatisation des devis et réservations de groupes",
+    "tone": "professionnel mais accessible, empathique envers les restaurateurs débordés, orienté résultats",
+    "targetAudience": "Restaurateurs et traiteurs québécois, 30-50 ans, propriétaires ou gérants, débordés par la gestion manuelle, perdent des clients par lenteur de réponse",
+    "contentPillars": [
+      "pain-points-résolus",
+      "résultats-et-ROI",
+      "éducatif-tips-resto",
+      "social-proof-témoignages",
+      "comparaison-concurrence"
+    ],
+    "primaryColor": "#4F46E5",
+    "language": "fr",
+    "price": "79$/mois",
+    "tagline": "De 3 jours à 2 minutes. Vos devis de groupe, automatisés.",
+    "websiteUrl": "https://Quovia.vercel.app",
+    "mainCTA": "Essayez gratuitement → Quovia.vercel.app"
+  },
+  "instagram": {
+    "username": "@quovia.app",
+    "displayName": "Quovia — Devis Resto Automatisés",
+    "bio": "🍽️ Tu perds 70% de tes groupes par lenteur?\nQuovia répond en 2 min, 24/7 🤖\n✅ +350% conversions | 15h/sem économisées\n👇 Essaie gratuitement",
+    "website": "https://Quovia.vercel.app",
+    "category": "Logiciel / Application",
+    "highlights": [
+      "Avant/Après",
+      "Témoignages",
+      "Comment ça marche",
+      "Tarifs",
+      "Tips Resto"
+    ],
+    "hashtags": [
+      "#RestaurantQC",
+      "#TraiteurQC",
+      "#RestaurateurQC",
+      "#GestionResto",
+      "#TechResto",
+      "#Quovia",
+      "#AutomatisationResto",
+      "#DevisInstantané",
+      "#RestaurantMontréal",
+      "#EntrepreneurQC",
+      "#SaaS",
+      "#StartupQC"
+    ]
+  },
+  "facebook": {
+    "pageName": "Quovia — Devis de groupes automatisés",
+    "username": "@quovia.app",
+    "bio": "Quovia automatise vos devis de groupes et événements. Répondez en 2 minutes au lieu de 3 jours. +350% de conversions, 15h/semaine économisées. Essai gratuit disponible.",
+    "about": "Quovia est le chatbot IA conçu spécifiquement pour les restaurants et traiteurs québécois. Il répond instantanément aux demandes de groupes 24h/7, qualifie les clients, calcule le prix juste et envoie un devis PDF professionnel en moins de 2 minutes. Résultat : vos concurrents dorment pendant que vous captez les clients. 79$/mois, aucun engagement.",
+    "category": "Logiciel/Application",
+    "website": "https://Quovia.vercel.app",
+    "callToAction": "SIGN_UP"
+  },
+  "tiktok": {
+    "username": "@quovia.app",
+    "displayName": "Quovia",
+    "bio": "🍽️ Resto QC? Stop perdre tes groupes 😤\nIA répond en 2 min → +350% conversions\n👇 Quovia.vercel.app",
+    "website": "https://Quovia.vercel.app",
+    "hashtags": [
+      "#RestaurantQC",
+      "#TraiteurQC",
+      "#GestionResto",
+      "#TechResto",
+      "#Quovia"
+    ],
+    "contentStyle": "éducatif et choc — avant/après percutant, stats frappantes, storytelling client"
+  },
+  "accountSetupGuide": {
+    "profileImageDescription": "Logo Quovia sur fond blanc ou fond couleur primaire #4F46E5 (indigo). Design épuré, moderne. Le 'Q' stylisé ou le mot 'Quovia' en typographie sans-serif bold. Doit être lisible en 50x50px.",
+    "coverImageDescription": "Bannière montrant l'interface du chatbot Quovia avec un restaurateur satisfait. Texte: 'Devis de groupe en 2 minutes' et URL Quovia.vercel.app. Couleur dominante indigo/bleu profond avec touches blanches.",
+    "manualSteps": {
+      "instagram": [
+        "Créer un compte Business Instagram (pas personnel)",
+        "Nom: 'Quovia — Devis Resto' | Username: @quovia.app",
+        "Copier-coller la bio fournie avec les émojis",
+        "Ajouter le lien Quovia.vercel.app",
+        "Créer les 5 Story Highlights (Avant/Après, Témoignages, Comment ça marche, Tarifs, Tips Resto)",
+        "Lier au compte Facebook pour activer Meta Graph API"
+      ],
+      "facebook": [
+        "Créer une Page Facebook (type: Logiciel/Application)",
+        "Nom de page: 'Quovia — Devis de groupes automatisés'",
+        "Copier-coller la bio et la description longue",
+        "Ajouter le bouton CTA: 'S'inscrire' pointant vers Quovia.vercel.app",
+        "Lier le compte Instagram Business à cette page",
+        "Activer l'accès API dans Meta for Developers"
+      ],
+      "tiktok": [
+        "Créer un compte TikTok Business",
+        "Username: @quovia.app",
+        "Copier-coller la bio avec émojis",
+        "Ajouter Quovia.vercel.app dans le lien bio",
+        "Appliquer pour TikTok Content Posting API sur developers.tiktok.com"
+      ]
+    }
+  },
+  "contentPlan": {
+    "weeklyThemes": {
+      "lundi": "Pain Point — Le client que tu as perdu ce weekend",
+      "mardi": "Éducatif — Tips gestion groupes pour restaurateurs",
+      "mercredi": "Résultats — Chiffres et ROI concrets",
+      "jeudi": "Storytelling — Use case ou histoire client",
+      "vendredi": "Comparaison — Quovia vs méthodes traditionnelles",
+      "samedi": "Derrière la scène — Comment fonctionne le chatbot IA",
+      "dimanche": "Engagement — Question ou sondage à la communauté"
+    },
+    "dailySchedule": {
+      "instagram": [
+        { "time": "08:00", "format": "carousel", "pillar": "pain-points-résolus" },
+        { "time": "12:30", "format": "reel", "pillar": "éducatif-tips-resto" },
+        { "time": "19:00", "format": "image", "pillar": "résultats-et-ROI" }
+      ],
+      "facebook": [
+        { "time": "07:30", "format": "text", "pillar": "pain-points-résolus" },
+        { "time": "12:00", "format": "image", "pillar": "éducatif-tips-resto" },
+        { "time": "18:00", "format": "carousel", "pillar": "résultats-et-ROI" }
+      ],
+      "tiktok": [
+        { "time": "07:00", "format": "short-video", "pillar": "pain-points-résolus" },
+        { "time": "16:00", "format": "short-video", "pillar": "éducatif-tips-resto" },
+        { "time": "21:00", "format": "short-video", "pillar": "résultats-et-ROI" }
+      ]
+    },
+    "contentMix": {
+      "educational": 35,
+      "entertaining": 20,
+      "promotional": 20,
+      "behindTheScenes": 25
+    },
+    "postingFrequency": {
+      "instagram": 3,
+      "facebook": 3,
+      "tiktok": 3
+    }
+  },
+  "settings": {
+    "postsPerDay": 3,
+    "contentFormats": ["image", "carousel", "reel", "short-video", "story", "text"],
+    "goals": ["leads", "brand_awareness", "sales"],
+    "language": "fr",
+    "timezone": "America/Montreal",
+    "hashtags": [
+      "#Quovia",
+      "#RestaurantQC",
+      "#TraiteurQC",
+      "#GestionResto",
+      "#TechResto"
+    ],
+    "callToAction": "Essayez gratuitement → Quovia.vercel.app",
+    "websiteUrl": "https://Quovia.vercel.app",
+    "keyMessages": [
+      "Répondez à vos demandes de groupes en 2 minutes au lieu de 3 jours",
+      "+350% de conversions, 15h/semaine économisées",
+      "79$/mois, aucun engagement, essai gratuit",
+      "Chatbot IA qui qualifie, calcule et envoie les devis PDF automatiquement",
+      "Conçu spécifiquement pour les restaurants et traiteurs québécois"
+    ],
+    "pricingInfo": {
+      "monthly": "79$/mois",
+      "commitment": "aucun engagement",
+      "trial": "essai gratuit disponible"
+    },
+    "competitors": ["SevenRooms", "Tripleseat", "Excel + Gmail"],
+    "personas": ["Sarah - Restauratrice débordée", "Marc - Traiteur entrepreneur", "Julie - Multi-restauratrice analytique"]
+  },
+  "createdAt": "2026-03-09T00:00:00.000Z"
+}
