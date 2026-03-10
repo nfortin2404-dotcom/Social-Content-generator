@@ -1,0 +1,38 @@
+# ============================================================
+# SÉCURITÉ — Ne jamais committer ces fichiers
+# ============================================================
+
+# Variables d'environnement (clés API, secrets)
+.env
+.env.local
+.env.production
+.env.*.local
+*.env
+
+# Dépendances
+node_modules/
+.pnp
+.pnp.js
+
+# Données sensibles de l'agent
+social-agent/data/config.json
+social-agent/data/posts/
+social-agent/data/media/
+
+# Build
+.next/
+out/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
